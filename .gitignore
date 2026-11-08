@@ -1,0 +1,9 @@
+# herdr runtime state — never share
+session.json
+session-snapshots/
+*.log
+*.sock*
+.plugins.lock
+release-notes.json
+*.bak.*
+.DS_Store
