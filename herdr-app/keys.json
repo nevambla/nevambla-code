@@ -1,0 +1,15 @@
+{
+  "layout:nevambla-code": {
+    "cmd-b": "layout.toggle:side",
+    "cmd-j": "layout.toggle:termpanel",
+    "cmd-alt-j": "vsc-panelbar.flip",
+    "cmd-shift-v": "vsc-editor.preview",
+    "cmd-alt-r": "vsc-editor.runfile"
+  },
+  "mod:vsc-editor": {
+    "cmd-s": "vsc-editor.save",
+    "cmd-w": "vsc-editor.close",
+    "shift-enter": "vsc-editor.run",
+    "cmd-enter": "vsc-editor.run"
+  }
+}
