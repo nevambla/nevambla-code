@@ -15,8 +15,8 @@ My configuration for [herdr](https://herdr.dev), the terminal workspace manager 
 
 ```sh
 brew install herdr
-git clone https://github.com/nevambla/herdr-setup.git
-cd herdr-setup
+git clone https://github.com/nevambla/nevambla-code.git
+cd nevambla-code
 ./install.sh
 ```
 
