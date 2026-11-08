@@ -94,6 +94,10 @@ Integrations are not part of these files. Install the ones you use, for example 
 
 Delete `~/.config/herdr-app/layouts/nevambla-code.json` and the `~/.config/herdr-app/mods/vsc-*` folders, then switch layouts with `ctrl-shift-l`. Your backups are in `~/.config/nevambla-code-backups/`.
 
+## Contributing
+
+There's plenty left to improve: optimizations, new panels and features I haven't needed yet. Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md), open an [issue](https://github.com/nevambla/nevambla-code/issues) or start a [discussion](https://github.com/nevambla/nevambla-code/discussions).
+
 ## License
 
-The font is JetBrains Mono patched by [Nerd Fonts](https://www.nerdfonts.com) (v3.4.0), under the SIL Open Font License 1.1 (`fonts/OFL.txt`).
+[MIT](LICENSE). The font is JetBrains Mono patched by [Nerd Fonts](https://www.nerdfonts.com) (v3.4.0), under the SIL Open Font License 1.1 (`fonts/OFL.txt`).
