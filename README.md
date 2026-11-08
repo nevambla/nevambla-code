@@ -2,6 +2,8 @@
 
 My setup for [herdr](https://herdr.dev), the terminal workspace manager for AI coding agents: an editor-style desktop layout called **nevambla-code**, its panels, the Dracula colors, the JetBrainsMono Nerd Font and my terminal settings.
 
+![nevambla-code](preview.png)
+
 ## What's inside
 
 | Path | What it is | Installed to |

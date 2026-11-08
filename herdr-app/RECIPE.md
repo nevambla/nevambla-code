@@ -2,6 +2,8 @@
 
 An editor-style herdr window in Dracula colors: a slim title bar with your Claude plan usage, an activity bar, a file explorer with your spaces and agents underneath, an editor with tabs, and the herdr terminals in a panel beside it. Agents run in the terminals while you read and edit their files next to them.
 
+![nevambla-code](../preview.png)
+
 ## What you see
 
 Left to right under a 45 px title bar, all in the `dracula` theme with JetBrainsMono Nerd Font at 13 px and terminal padding 6 × 12:
